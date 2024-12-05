@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Figtree:ital,wght@0,300..900;1,300..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#taylor-swift-header {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+h1 {
+    font-family: "Anton", sans-serif;
+}
+body {
+    background-color: #b6b5c9;
+    font-family: "Playfair Display", serif;
+}
+a:link{
+    color: #565090;
+}
+.callout {
+    background-color: #565090;
+    color: antiquewhite;
+    text-align:center;
+}
+.container {
+    width: 50%;
+}
+#graphic-one-section {
+    background-color: #565090;
+    color:antiquewhite;
+}
+#graphic-one {
+    width:55%;
+}
+.container-fluid {
+    width:100%;
+}
+#graphic-one-section {
+    margin:20px;
+}
+footer {
+    text-align: center;
+}
+a:link {
+    color: #565090;
+}
