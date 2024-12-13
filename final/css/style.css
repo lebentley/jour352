@@ -8,6 +8,7 @@
 }
 h1 {
     font-family: "Anton", sans-serif;
+    padding: 10px;
 }
 body {
     background-color: #b6b5c9;
@@ -20,9 +21,11 @@ a:link{
     background-color: #565090;
     color: antiquewhite;
     text-align:center;
+    padding-bottom: 10px;
 }
 .container {
     width: 50%;
+    padding: 10px;
 }
 #graphic-one-section {
     background-color: #565090;
@@ -35,7 +38,7 @@ a:link{
     width:100%;
 }
 #graphic-one-section {
-    margin:20px;
+    margin:15px;
 }
 footer {
     text-align: center;
